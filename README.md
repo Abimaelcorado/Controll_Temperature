@@ -4,7 +4,7 @@
 
 # Projeto Arduino
 
-![arduino_temperature](https://github.com/Abimaelcorado/Controll_Temperature/assets/125766299/7a5c6f43-84dc-41cb-b51b-e17836cebe6b)
+![project_arduino](https://github.com/Abimaelcorado/Controll_Temperature/assets/125766299/fd5943b5-fb67-4b4d-b351-ee30ae864861)
 
 # Código
 
